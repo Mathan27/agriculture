@@ -26,7 +26,7 @@ SECRET_KEY = '&moy9=f@l^q+nj)5hpk@m^g)qhn$@%ztdlgtdklusg*sma$_a6'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['127.0.0.1']
+ALLOWED_HOSTS = ['127.0.0.1','srpproject.herokuapp.com/']
 
 
 # Application definition
