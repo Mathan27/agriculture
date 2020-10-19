@@ -1,1 +1,1 @@
-web: gunicorn srpproject.wsgi
+web:gunicorn srpproject.wsgi
