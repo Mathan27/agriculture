@@ -1,1 +1,1 @@
-web: gunicorn srpproject.wsgi --log-file -
+web: gunicorn srpproject.wsgi 
